@@ -50,6 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nivetha-Saravana/Nivetha-Saravana/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nivetha-Saravana/Nivetha-Saravana/main/dist/snake.svg" alt="Snake animation" />
+
 
 ###
